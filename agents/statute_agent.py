@@ -1,3 +1,5 @@
+__version__ = "0.1.0"
+
 from agno.agent import Agent
 from agno.models.ollama import Ollama
 
