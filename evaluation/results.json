@@ -1,0 +1,332 @@
+[
+    {
+        "id": 1,
+        "category": "Oral Sale of Goods",
+        "expected_statutes": [
+            "1302.04"
+        ],
+        "predicted_statutes": [
+            "1302.04"
+        ],
+        "expected_compliance": "Non-Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "sale of goods",
+            "writing",
+            "signed"
+        ],
+        "statute_score": 40,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 2,
+        "category": "Written Sale of Goods",
+        "expected_statutes": [
+            "1302.04"
+        ],
+        "predicted_statutes": [
+            "1302.04",
+            "1302.12"
+        ],
+        "expected_compliance": "Compliant",
+        "predicted_compliance": "Compliant",
+        "keyword_matches": [
+            "writing",
+            "signed",
+            "sale of goods"
+        ],
+        "statute_score": 40.0,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 3,
+        "category": "Unsigned Sale Agreement",
+        "expected_statutes": [
+            "1302.04"
+        ],
+        "predicted_statutes": [
+            "1302.04",
+            "1302.65"
+        ],
+        "expected_compliance": "Non-Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "signed",
+            "writing",
+            "enforceable"
+        ],
+        "statute_score": 40.0,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 4,
+        "category": "Accepted Goods Exception",
+        "expected_statutes": [
+            "1302.04",
+            "1302.65"
+        ],
+        "predicted_statutes": [
+            "1302.04",
+            "1302.65"
+        ],
+        "expected_compliance": "Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "received",
+            "accepted",
+            "payment"
+        ],
+        "statute_score": 40,
+        "compliance_score": 0,
+        "keyword_score": 20.0,
+        "accuracy": 60.0
+    },
+    {
+        "id": 5,
+        "category": "Partial Acceptance of Goods",
+        "expected_statutes": [
+            "1302.04",
+            "1302.65"
+        ],
+        "predicted_statutes": [
+            "1302.04",
+            "1302.65"
+        ],
+        "expected_compliance": "Partially Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "accepted",
+            "quantity",
+            "goods"
+        ],
+        "statute_score": 40,
+        "compliance_score": 0,
+        "keyword_score": 20.0,
+        "accuracy": 60.0
+    },
+    {
+        "id": 6,
+        "category": "Payment and Acceptance",
+        "expected_statutes": [
+            "1302.04"
+        ],
+        "predicted_statutes": [
+            "1302.04",
+            "1302.65"
+        ],
+        "expected_compliance": "Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "payment",
+            "accepted"
+        ],
+        "statute_score": 40.0,
+        "compliance_score": 0,
+        "keyword_score": 13.33,
+        "accuracy": 53.33
+    },
+    {
+        "id": 7,
+        "category": "Two-Year Oral Agreement",
+        "expected_statutes": [
+            "1335.05"
+        ],
+        "predicted_statutes": [
+            "1335.05",
+            "1302.04"
+        ],
+        "expected_compliance": "Non-Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "one year",
+            "writing"
+        ],
+        "statute_score": 40.0,
+        "compliance_score": 40,
+        "keyword_score": 13.33,
+        "accuracy": 93.33
+    },
+    {
+        "id": 8,
+        "category": "Written Long-Term Agreement",
+        "expected_statutes": [
+            "1335.05"
+        ],
+        "predicted_statutes": [
+            "1335.05",
+            "1302.04"
+        ],
+        "expected_compliance": "Compliant",
+        "predicted_compliance": "Compliant",
+        "keyword_matches": [
+            "one year",
+            "writing",
+            "signed"
+        ],
+        "statute_score": 40.0,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 9,
+        "category": "Oral Contract Modification",
+        "expected_statutes": [
+            "1302.04",
+            "1302.12"
+        ],
+        "predicted_statutes": [
+            "1302.12",
+            "1302.04"
+        ],
+        "expected_compliance": "Non-Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "modification",
+            "writing",
+            "signed"
+        ],
+        "statute_score": 40,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 10,
+        "category": "Written Contract Modification",
+        "expected_statutes": [
+            "1302.04",
+            "1302.12"
+        ],
+        "predicted_statutes": [
+            "1302.12",
+            "1302.04"
+        ],
+        "expected_compliance": "Compliant",
+        "predicted_compliance": "Compliant",
+        "keyword_matches": [
+            "modification",
+            "writing",
+            "signed"
+        ],
+        "statute_score": 40,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 11,
+        "category": "Buyer Failure to Pay",
+        "expected_statutes": [
+            "1302.65",
+            "1302.83"
+        ],
+        "predicted_statutes": [
+            "1302.83",
+            "1302.65"
+        ],
+        "expected_compliance": "Non-Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "accepted",
+            "payment",
+            "seller"
+        ],
+        "statute_score": 40,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 12,
+        "category": "Seller Failure to Deliver",
+        "expected_statutes": [
+            "1302.85"
+        ],
+        "predicted_statutes": [
+            "1302.85",
+            "1302.04"
+        ],
+        "expected_compliance": "Non-Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "delivery",
+            "seller",
+            "cancel"
+        ],
+        "statute_score": 40.0,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 13,
+        "category": "Accepted Nonconforming Goods Without Notice",
+        "expected_statutes": [
+            "1302.65"
+        ],
+        "predicted_statutes": [
+            "1302.65",
+            "1302.04",
+            "1302.85"
+        ],
+        "expected_compliance": "Non-Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "notice",
+            "breach",
+            "accepted"
+        ],
+        "statute_score": 40.0,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 14,
+        "category": "Merchant Confirmation",
+        "expected_statutes": [
+            "1302.04"
+        ],
+        "predicted_statutes": [
+            "1302.04"
+        ],
+        "expected_compliance": "Compliant",
+        "predicted_compliance": "Compliant",
+        "keyword_matches": [
+            "merchants",
+            "confirmation",
+            "ten days"
+        ],
+        "statute_score": 40,
+        "compliance_score": 40,
+        "keyword_score": 20.0,
+        "accuracy": 100.0
+    },
+    {
+        "id": 15,
+        "category": "Written Agreement Missing Quantity",
+        "expected_statutes": [
+            "1302.04"
+        ],
+        "predicted_statutes": [
+            "1302.04"
+        ],
+        "expected_compliance": "Non-Compliant",
+        "predicted_compliance": "Non-Compliant",
+        "keyword_matches": [
+            "quantity",
+            "writing"
+        ],
+        "statute_score": 40,
+        "compliance_score": 40,
+        "keyword_score": 13.33,
+        "accuracy": 93.33
+    }
+]

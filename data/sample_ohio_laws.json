@@ -1,0 +1,148 @@
+[
+  {
+    "section": "1335.05",
+    "title": "Certain agreements to be in writing",
+    "summary": "Certain agreements are subject to a writing and signature requirement. These include a special promise to answer for the debt or default of another person, certain agreements involving marriage, contracts for the sale of land or an interest in land, and agreements that are not to be performed within one year from the making of the agreement. The agreement or a memorandum or note of it must generally be in writing and signed by the party to be charged or an authorized person.",
+    "keywords": [
+      "one year",
+      "two years",
+      "three years",
+      "long-term agreement",
+      "cannot be performed within one year",
+      "not to be performed within one year",
+      "sale of land",
+      "interest in land",
+      "marriage agreement",
+      "debt of another",
+      "statute of frauds"
+    ]
+  },
+  {
+    "section": "1302.04",
+    "title": "Formal requirements - statute of frauds - UCC 2-201",
+    "summary": "A contract for the sale of goods for five hundred dollars or more is generally not enforceable unless there is a writing sufficient to indicate a contract for sale and signed by the party against whom enforcement is sought. The writing is not enforceable beyond the quantity of goods shown. Between merchants, a written confirmation received within a reasonable time can satisfy the writing requirement against the recipient unless written objection is given within ten days. Exceptions include specially manufactured goods, an admission that a contract was made, goods for which payment has been made and accepted, and goods which have been received and accepted.",
+    "keywords": [
+      "sale of goods",
+      "goods",
+      "purchase",
+      "buyer",
+      "seller",
+      "five hundred dollars",
+      "$500",
+      "oral",
+      "verbal",
+      "written",
+      "writing",
+      "signed",
+      "quantity",
+      "merchant confirmation",
+      "written confirmation",
+      "confirmation",
+      "ten days",
+      "received and accepted",
+      "payment made and accepted",
+      "specially manufactured goods",
+      "admission"
+    ]
+  },
+  {
+    "section": "1302.12",
+    "title": "Modification, rescission, and waiver - UCC 2-209",
+    "summary": "An agreement modifying a sales contract needs no consideration to be binding. A signed agreement that excludes modification or rescission except by a signed writing generally cannot otherwise be modified or rescinded. If the contract as modified falls within the statute of frauds requirements of section 1302.04, those requirements must be satisfied. An ineffective attempted modification may in some circumstances operate as a waiver.",
+    "keywords": [
+      "modification",
+      "modify",
+      "modified",
+      "amendment",
+      "amend",
+      "amended",
+      "rescission",
+      "rescind",
+      "waiver",
+      "signed writing",
+      "oral modification",
+      "increase the quantity",
+      "increase the purchase price"
+    ]
+  },
+  {
+    "section": "1302.65",
+    "title": "Effect of acceptance - notice of breach - UCC 2-607",
+    "summary": "A buyer must pay at the contract rate for goods accepted. Acceptance generally precludes rejection of the accepted goods. Where tender has been accepted, the buyer must notify the seller of a breach within a reasonable time after discovering or when the buyer should have discovered the breach, or the buyer may be barred from a remedy. The buyer has the burden of establishing breach with respect to accepted goods.",
+    "keywords": [
+      "accepted",
+      "acceptance",
+      "accepted goods",
+      "goods accepted",
+      "received and accepted",
+      "without rejection",
+      "notice of breach",
+      "notify the seller",
+      "failed to notify",
+      "without notice",
+      "nonconforming goods",
+      "payment",
+      "contract rate",
+      "failed to pay"
+    ]
+  },
+  {
+    "section": "1302.77",
+    "title": "Seller's remedies in general - UCC 2-703",
+    "summary": "When a buyer wrongfully rejects or revokes acceptance of goods, fails to make a payment due on or before delivery, or repudiates the contract, the aggrieved seller may use statutory remedies. Depending on the circumstances, the seller may withhold delivery, stop delivery, resell the goods and recover damages, recover damages for non-acceptance, recover the price in a proper case, or cancel.",
+    "keywords": [
+      "buyer failed to pay",
+      "buyer fails to pay",
+      "failure to pay",
+      "failed to make payment",
+      "payment due",
+      "buyer refused to pay",
+      "wrongfully rejects",
+      "revokes acceptance",
+      "buyer repudiates",
+      "seller remedies",
+      "seller may cancel",
+      "withhold delivery"
+    ]
+  },
+  {
+    "section": "1302.83",
+    "title": "Action for the price - UCC 2-709",
+    "summary": "When the buyer fails to pay the price as it becomes due, the seller may recover the price of goods accepted. The seller may also recover the price of conforming goods lost or damaged after the risk of loss passed to the buyer, and in certain circumstances goods identified to the contract that cannot reasonably be resold.",
+    "keywords": [
+      "fails to pay the price",
+      "failed to pay",
+      "failure to pay",
+      "price became due",
+      "amount due",
+      "payment deadline",
+      "goods accepted",
+      "accepted goods",
+      "recover the price",
+      "purchase price became due",
+      "failed to pay any portion"
+    ]
+  },
+  {
+    "section": "1302.85",
+    "title": "Buyer's remedies in general - UCC 2-711",
+    "summary": "Where the seller fails to make delivery or repudiates, or where the buyer rightfully rejects or justifiably revokes acceptance, the buyer may cancel and may recover the price already paid. The buyer may also cover and seek damages or recover damages for non-delivery. In appropriate cases involving seller failure to deliver or repudiation, the buyer may recover identified goods or seek specific performance or replevin.",
+    "keywords": [
+      "seller failed to deliver",
+      "seller fails to deliver",
+      "failed to deliver",
+      "failure to deliver",
+      "non-delivery",
+      "delivery deadline",
+      "would not perform",
+      "seller repudiates",
+      "seller repudiated",
+      "rightfully rejects",
+      "revokes acceptance",
+      "buyer may cancel",
+      "recover the price",
+      "cover",
+      "damages"
+    ]
+  }
+]
