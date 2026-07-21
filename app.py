@@ -4,6 +4,29 @@ from workflows.poe_workflow import OhioComplianceWorkflow
 __version__ = "0.1.0"
 
 def get_version():
+    return __version__
+
+# Create the PoE Workflow
+workflow = OhioComplianceWorkflow(
+    name="Ohio Contract Compliance PoE"
+)
+
+def main():
+    parser = argparse.ArgumentParser()
+    parser.add_argument("--version", action="store_true", help="Print version and exit")
+    args, unknown = parser.parse_known_args()
+    if args.version:
+        print(get_version())
+        return
+
+if __name__ == "__main__":
+    main()
+from workflows.poe_workflow import OhioComplianceWorkflow
+
+# Module version
+__version__ = "0.1.0"
+
+def get_version():
     """Return the current application version."""
     return __version__
 
