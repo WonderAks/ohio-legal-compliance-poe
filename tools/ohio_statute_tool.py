@@ -3,6 +3,9 @@ import re
 from pathlib import Path
 
 
+__version__ = "0.1.0-deterministic"
+
+
 class OhioStatuteTool:
     def __init__(self):
         import json
