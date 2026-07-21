@@ -1,4 +1,7 @@
 import json
+__version__ = "0.1.0"
+
+import json
 import re
 
 from workflows.poe_workflow import OhioComplianceWorkflow
