@@ -3,6 +3,8 @@
 Version: 0.1.0
 """
 
+__version__ = "0.1.0"
+
 from agno.workflow import Workflow
 
 from agents.statute_agent import statute_agent
